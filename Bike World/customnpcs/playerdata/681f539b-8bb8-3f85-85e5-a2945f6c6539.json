@@ -1,0 +1,29 @@
+{
+    ItemGiverChained: [
+    ],
+    TransportData: [
+    ],
+    FactionData: [
+        {
+            Points: 2000,
+            Faction: 0
+        }
+    ],
+    BankData: [
+    ],
+    ItemGiversList: [
+    ],
+    MailData: [
+    ],
+    PlayerName: "Player1",
+    QuestData: {
+        CompletedQuests: [
+        ],
+        ActiveQuests: [
+        ]
+    },
+    UUID: "681f539b-8bb8-3f85-85e5-a2945f6c6539",
+    PlayerCompanionId: 0,
+    DialogData: [
+    ]
+}

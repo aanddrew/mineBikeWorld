@@ -1,0 +1,838 @@
+{
+  "worldZones": {
+    "-1": {
+      "dimensionID": -1,
+      "areaZones": [],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "0": {
+      "dimensionID": 0,
+      "areaZones": [
+        {
+          "name": "block_door",
+          "area": {
+            "high": {
+              "x": 96,
+              "y": 73,
+              "z": 237
+            },
+            "low": {
+              "x": 93,
+              "y": 70,
+              "z": 236
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 1,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.zone.knockback": "false"
+            }
+          }
+        },
+        {
+          "name": "questcave",
+          "area": {
+            "high": {
+              "x": 100,
+              "y": 73,
+              "z": -10
+            },
+            "low": {
+              "x": 93,
+              "y": 54,
+              "z": -55
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 2,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.break*": "true",
+              "fe.protection.break.*": "true",
+              "fe.protection.place.*": "true"
+            }
+          }
+        },
+        {
+          "name": "dungeon_entrance",
+          "area": {
+            "high": {
+              "x": 125,
+              "y": 174,
+              "z": -144
+            },
+            "low": {
+              "x": 117,
+              "y": 150,
+              "z": -154
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 4,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.break.*": "false",
+              "fe.protection.place.*": "false"
+            }
+          }
+        },
+        {
+          "name": "block_village1",
+          "area": {
+            "high": {
+              "x": 74,
+              "y": 128,
+              "z": 256
+            },
+            "low": {
+              "x": 70,
+              "y": 70,
+              "z": 140
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 1,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.zone.knockback": "false"
+            }
+          }
+        },
+        {
+          "name": "block_village3",
+          "area": {
+            "high": {
+              "x": 136,
+              "y": 128,
+              "z": 257
+            },
+            "low": {
+              "x": 132,
+              "y": 70,
+              "z": 139
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 3,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.zone.knockback": "false"
+            }
+          }
+        },
+        {
+          "name": "village",
+          "area": {
+            "high": {
+              "x": 132,
+              "y": 90,
+              "z": 256
+            },
+            "low": {
+              "x": 70,
+              "y": 60,
+              "z": 140
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 1,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.break.*": "false",
+              "fe.protection.place.*": "false"
+            }
+          }
+        },
+        {
+          "name": "block_village2",
+          "area": {
+            "high": {
+              "x": 126,
+              "y": 128,
+              "z": 140
+            },
+            "low": {
+              "x": 74,
+              "y": 70,
+              "z": 136
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 2,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.zone.knockback": "false"
+            }
+          }
+        },
+        {
+          "name": "block_village4",
+          "area": {
+            "high": {
+              "x": 127,
+              "y": 128,
+              "z": 256
+            },
+            "low": {
+              "x": 74,
+              "y": 64,
+              "z": 252
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 4,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.zone.knockback": "false"
+            }
+          }
+        }
+      ],
+      "id": 4,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "1": {
+      "dimensionID": 1,
+      "areaZones": [],
+      "id": 2,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "102": {
+      "dimensionID": 102,
+      "areaZones": [],
+      "id": 1,
+      "playerPermissions": {},
+      "groupPermissions": {
+        "_ALL_": {
+          "some.test.permission": "true"
+        }
+      }
+    },
+    "105": {
+      "dimensionID": 105,
+      "areaZones": [
+        {
+          "name": "firedungeon",
+          "area": {
+            "high": {
+              "x": 500,
+              "y": 250,
+              "z": 500
+            },
+            "low": {
+              "x": -500,
+              "y": 0,
+              "z": -500
+            }
+          },
+          "shape": "BOX",
+          "priority": 0,
+          "id": 5,
+          "playerPermissions": {},
+          "groupPermissions": {
+            "_ALL_": {
+              "fe.protection.break.*": "false",
+              "fe.protection.place.*": "false"
+            }
+          }
+        }
+      ],
+      "id": 3,
+      "playerPermissions": {},
+      "groupPermissions": {}
+    },
+    "100": {
+      "dimensionID": 100,
+      "areaZones": [],
+      "id": 1,
+      "playerPermissions": {},
+      "groupPermissions": {
+        "_ALL_": {
+          "some.test.permission": "false"
+        }
+      }
+    },
+    "106": {
+      "dimensionID": 106,
+      "areaZones": [],
+      "id": 1,
+      "playerPermissions": {},
+      "groupPermissions": {
+        "_ALL_": {
+          "some.test.permission": "false"
+        }
+      }
+    }
+  },
+  "playerGroups": {},
+  "id": 1,
+  "playerPermissions": {
+    "(fefefefe-fefe-fefe-fefe-fefefefefefe|$SERVER)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefeec|$FE_ECONOMY)": {
+      "fe.economy.command.wallet.*": "true",
+      "command.give": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecc|$RCON)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(fefefefe-fefe-fefe-fefe-fefefefefecb|$COMMANDBLOCK)": {
+      "*": "true",
+      "fe.internal.player.known": "true"
+    },
+    "(6089232f-05ad-4a55-b01e-c12c07fa64f1|JessePeter)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e6ce70cd-b7cc-34be-b059-93e41d35480c|Player30)": {
+      "fe.internal.player.known": "true"
+    },
+    "(fc74fe37-e9f9-3198-8e46-1eee97cacfa6|Player455)": {
+      "fe.internal.player.known": "true"
+    },
+    "(409ad871-75ba-3dbd-b116-807d64800e7d|Player730)": {
+      "fe.internal.player.known": "true"
+    },
+    "(bce7419c-5709-3ee4-a73f-d19725fe2893|Player161)": {
+      "fe.internal.player.known": "true"
+    },
+    "(df2d3e26-a8b7-3aae-9296-f3a891282132|Player887)": {
+      "fe.internal.player.known": "true"
+    },
+    "(dfdc5dbd-4a0e-3b6a-a815-601a03741434|Player116)": {
+      "fe.internal.player.known": "true"
+    },
+    "(4c4af65a-e991-33a8-a762-2d145c215578|Player875)": {
+      "fe.internal.player.known": "true"
+    },
+    "(72f1bdc6-4b0d-3d9c-9462-229fd961a627|Player264)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2b98548a-5e09-3029-b082-b4c99d31d926|Player304)": {
+      "fe.internal.player.known": "true"
+    },
+    "(aeca01bf-232e-37a2-985b-599827b3226a|Player744)": {
+      "fe.internal.player.known": "true"
+    },
+    "(184a029e-ad3d-3abd-8a1a-c044d35081d5|Player371)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1e0b9d62-e071-33ba-b82e-1c564a46e2f0|Player353)": {
+      "fe.internal.player.known": "true"
+    },
+    "(7ba45a5a-c3de-3909-ba3c-f9f78edf15b6|Player396)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0aee4775-e8b4-37ed-8049-6be96ef5de8e|Player339)": {
+      "fe.internal.player.known": "true"
+    },
+    "(588419cf-d7d5-3f7b-8fe7-89996b3b7551|Player54)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2814925e-9add-35ba-8fa3-433e445fe43d|Player799)": {
+      "fe.internal.player.known": "true"
+    },
+    "(eb8c7ff5-884e-3537-a7ec-757a8e4325be|Player183)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ee37bc44-eeb3-3a18-8bd0-93b5769d5697|Player713)": {
+      "fe.internal.player.known": "true"
+    },
+    "(596302c2-a8ac-3ac1-b055-653042871aa0|Player788)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e4e5b30f-b972-382c-b5e5-86c2e785a8a6|Player959)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b31fadf2-d5d5-36b6-a9c6-26ad19735f31|Player106)": {
+      "fe.internal.player.known": "true"
+    },
+    "(984cf274-9eed-399c-97dc-353ad10f84a8|Player479)": {
+      "fe.internal.player.known": "true"
+    },
+    "(15798b51-9c30-3f35-8be6-3613cb7b02a9|Player945)": {
+      "fe.internal.player.known": "true"
+    },
+    "(69715e5e-1775-3a6c-8b64-1d82bcbbe688|Player508)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b52d0c01-e908-3f05-9150-dcf0319ded3d|Player331)": {
+      "fe.internal.player.known": "true"
+    },
+    "(168f5f60-1523-35b7-93b7-01b2c42226b4|Player335)": {
+      "fe.internal.player.known": "true"
+    },
+    "(09667321-9873-3aba-80be-1829d546aeb1|Player616)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0a5e4ff0-6099-36b5-b64d-a84ffa9f1f72|Player378)": {
+      "fe.internal.player.known": "true"
+    },
+    "(58b4dcc6-56fd-3122-a1b7-3d72cc687631|Player560)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c89ac188-5207-3ca2-8ef0-ed700f7bdbef|Player820)": {
+      "fe.internal.player.known": "true"
+    },
+    "(3ca144f4-1ff8-3e11-b846-ee12cf77a543|Player801)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0ef61a2a-d91b-37b4-a10d-af67b917d543|Player231)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a7d84b43-620c-3be0-bbc6-d96e040e37ab|Player590)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8c1ef9e6-3632-3ca3-9eee-559f6e0a39df|Player921)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b89d12f3-1740-34c6-919e-a2949a3e81fe|Player548)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d4f59999-1785-359b-b48d-ac18df657dda|Player61)": {
+      "fe.internal.player.known": "true"
+    },
+    "(78efad11-ed05-36dd-89e2-0372af3e07e9|Player71)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2e2bbed4-8d1c-3b2c-8673-c561c520e4f2|Player314)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1f3c4999-135a-3409-82bf-957837de1473|Player395)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2f4f52ff-0d3a-36b8-836b-d09e6352ef45|Player896)": {
+      "fe.internal.player.known": "true"
+    },
+    "(f8ecce46-2a8b-3dd7-b17c-715cc94801bb|Player345)": {
+      "fe.internal.player.known": "true"
+    },
+    "(5f90bf1f-575d-3542-89d7-731859eee6f2|Player765)": {
+      "fe.internal.player.known": "true"
+    },
+    "(55199b58-d04f-3d22-9ce2-5472509a024b|Player621)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8cfc5391-e37d-328f-a689-9b5f6c4663f5|Player536)": {
+      "fe.internal.player.known": "true"
+    },
+    "(575973e5-e497-3cb3-bb63-d114ffcff0b1|Player83)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6405522b-9fbb-33c3-a135-56650c3b4d76|Player176)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1ab04e7d-c966-3477-8a64-78d9a4421f72|Player348)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0d3f56a3-2b3f-38d6-a849-9d61b8f97a5c|Player277)": {
+      "fe.internal.player.known": "true"
+    },
+    "(f2c8593c-da65-363a-88be-1cceb3b57c61|Player443)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8d101aa3-9950-3c98-bc33-0e30fb25ef8b|Player383)": {
+      "fe.internal.player.known": "true"
+    },
+    "(07621e04-f7a0-3030-986e-2083b375ff85|Player313)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a498be5d-0142-3d23-a17c-8823a1cd27b0|Player905)": {
+      "fe.internal.player.known": "true"
+    },
+    "(453f7d61-95c2-3540-9f32-1609f539a60e|Player564)": {
+      "fe.internal.player.known": "true"
+    },
+    "(bdc5f32b-6d6c-3510-b82f-68a782d73b82|Player634)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a996484f-c1f5-3a23-9c5a-0656b31a193b|Player21)": {
+      "fe.internal.player.known": "true"
+    },
+    "(af25fa27-7674-36f1-a716-e7719e15f87a|Player149)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e98cb9c7-30ea-33d5-9363-b24219bed40f|Player922)": {
+      "fe.internal.player.known": "true"
+    },
+    "(9f83efe4-f945-3a62-8c8a-b62cdf1ee258|Player245)": {
+      "fe.internal.player.known": "true"
+    },
+    "(494e218c-ed3e-3c18-87a9-972128e58cab|Player972)": {
+      "fe.internal.player.known": "true"
+    },
+    "(66157e7a-53e0-3299-9208-7674efd706f9|Player210)": {
+      "fe.internal.player.known": "true"
+    },
+    "(5648fab5-fa61-330e-8fa7-aea962bdfd7c|Player477)": {
+      "fe.internal.player.known": "true"
+    },
+    "(24078ad8-d7e0-3e5c-a4a9-a3bc169a7177|Player461)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c03da6a3-8a6c-3375-a85a-97a8fae94902|Player860)": {
+      "fe.internal.player.known": "true"
+    },
+    "(da6fa5b1-bd84-361d-8771-656d46818daa|Player706)": {
+      "fe.internal.player.known": "true"
+    },
+    "(9bd3b5b5-2b26-3f14-8236-0cdd38b7c3b1|Player747)": {
+      "fe.internal.player.known": "true"
+    },
+    "(216c785c-0df1-3594-b574-a2156a14723d|Player949)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d752da32-446a-32a0-876c-33f203010ff8|Player432)": {
+      "fe.internal.player.known": "true"
+    },
+    "(681f539b-8bb8-3f85-85e5-a2945f6c6539|Player1)": {
+      "fe.internal.player.known": "true"
+    },
+    "(324bf773-41c1-3c88-8191-03f2982049b1|Player457)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e93afb92-bc6e-34ce-b382-da5f2dd619b2|Player399)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e2f2d8ad-63d3-3d66-8818-3aa1e92fae1a|Player200)": {
+      "fe.internal.player.known": "true"
+    },
+    "(4805b7f8-997e-33ab-826d-ca981b97526b|Player958)": {
+      "fe.internal.player.known": "true"
+    },
+    "(56a259bf-cc44-38c1-8061-dd05953c60e0|Player632)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ae7b5efd-7fd1-3975-a19d-4e69aea8f757|Player282)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ffa08e0b-3fc0-345a-85a2-3e167f6ec55b|Player111)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2e271c1a-d081-32c8-843a-f79146152093|Player180)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d7cff5a0-f2a0-3727-aca6-d996fc42f55a|Player329)": {
+      "fe.internal.player.known": "true"
+    },
+    "(44915209-9814-3995-87c7-f4dc48b55294|Player537)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1b411c64-a8c2-3ec5-98f5-0b867e192819|Player346)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a73b0b5d-2d3b-3ddb-ba64-20632ca9f512|Player626)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2b83ebdc-0604-37b1-94a0-4298b1021b84|Player577)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d1587dea-b047-3ee8-b46a-f3d599824159|Player985)": {
+      "fe.internal.player.known": "true"
+    },
+    "(f2ba1573-0c0d-3978-bb86-e2dc9c0eb9a4|Player546)": {
+      "fe.internal.player.known": "true"
+    },
+    "(56f01d2a-1301-31e7-9d05-beb3615c471c|Player833)": {
+      "fe.internal.player.known": "true"
+    },
+    "(90bb5d97-9dd4-3b7b-a71d-c51bbf8a4878|Player877)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0c6f2d90-05bd-313a-b718-c4c13f65dc1c|Player873)": {
+      "fe.internal.player.known": "true"
+    },
+    "(352a2219-a032-396a-9556-4b75f1d6ec41|Player552)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c97b21a8-25e6-37ce-8a04-8d5bcf6f4c4d|Player417)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c7d67933-d428-31bd-9c63-95c492679fdc|Player476)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a0803941-42b2-30d8-878b-d5bba587b8ae|Player900)": {
+      "fe.internal.player.known": "true"
+    },
+    "(197d9491-ff34-3fd1-8394-1aadd56cfa2c|Player841)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d96be705-d0ae-31d3-afba-31a637d80f6d|Player203)": {
+      "fe.internal.player.known": "true"
+    },
+    "(73181018-6474-36f0-8722-c7fb6befd317|Player52)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c98b4c6a-9420-3bf0-87b7-0742781c94c8|Player678)": {
+      "fe.internal.player.known": "true"
+    },
+    "(303505c1-798d-3df3-ab8d-6c701f3fe36a|Player478)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c4d26a50-7780-355e-b483-13b3b871f0a9|Player806)": {
+      "fe.internal.player.known": "true"
+    },
+    "(4e1f5e28-f05f-3acf-ac65-db01d9d51f95|Player829)": {
+      "fe.internal.player.known": "true"
+    },
+    "(9d68ef8a-3024-3cdc-bc81-6fbd472f8ed9|Player91)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6004b361-ef29-34d2-b89c-32df237908c7|Player847)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ba25db16-299f-3ae9-adf4-505df8532915|Player966)": {
+      "fe.internal.player.known": "true"
+    },
+    "(3d9ab571-1ea5-360b-bc9d-77cd0b2f72a9|Player288)": {
+      "fe.internal.player.known": "true"
+    },
+    "(3eec9f18-1d0e-3f17-917c-6994e7d034d1|Player87)": {
+      "fe.internal.player.known": "true"
+    },
+    "(bbd99455-8401-3d8f-8354-38be4a4ffba2|Player326)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6634a609-43e8-3247-9054-c77a3a707d73|Player520)": {
+      "fe.internal.player.known": "true"
+    },
+    "(74c27658-bdbf-3735-92e3-d4cbb89f0350|Player837)": {
+      "fe.internal.player.known": "true"
+    },
+    "(905847c0-6737-32d8-85e6-3f64ecd32033|Player515)": {
+      "fe.internal.player.known": "true"
+    },
+    "(27fc360e-fa24-3dff-9bfe-79a065a3b88e|Player78)": {
+      "fe.internal.player.known": "true"
+    },
+    "(83a9d3a3-9e1e-31ca-9e08-18626d61aedc|Player88)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d0a046a3-d4b8-3312-bf51-44dcee5c19ba|Player271)": {
+      "fe.internal.player.known": "true"
+    },
+    "(63acdfe4-8ecf-374a-878d-bbc28b3cc2c5|Player410)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d7375cbd-a871-343c-8b61-9df743b3fcf0|Player35)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8896e73a-aee7-316e-8768-fb46f8d5ace7|Player377)": {
+      "fe.internal.player.known": "true"
+    },
+    "(efe2ab2d-072a-337a-9d65-10da4f48c969|Player451)": {
+      "fe.internal.player.known": "true"
+    },
+    "(3f66a67c-db6c-36b7-b762-d7a40c17883b|Player734)": {
+      "fe.internal.player.known": "true"
+    },
+    "(5b615aa5-0042-3651-8971-2294273b0cec|Player715)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6ae8fe40-3ccb-3755-8fd2-c5445728b386|Player579)": {
+      "fe.internal.player.known": "true"
+    },
+    "(f109a640-cd93-3f49-a1e7-75407085bbf0|Player990)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8b099b45-7c1f-3749-8e57-5c8f500dad04|Player543)": {
+      "fe.internal.player.known": "true"
+    },
+    "(23caebef-63a5-39b8-9ae3-6dfce0636b5f|Player379)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ab5af6cc-0975-34e7-baca-b908d8aa661c|Player354)": {
+      "fe.internal.player.known": "true"
+    },
+    "(90ee7131-905c-3e5a-b4c0-60424db8bd36|Player913)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1c6ab893-c8be-3ad8-a14c-5cafcb89dfd5|Player502)": {
+      "fe.internal.player.known": "true"
+    },
+    "(10170aa4-882d-3b2e-9798-50b9f8d93a4b|Player733)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d75ffc85-72b0-3b94-be32-d104d89a3a6a|Player953)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b8491575-8822-3c65-ac66-49751c8ac7b1|Player950)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6f3f457a-8ce3-3a45-8767-61c2dfd0e70f|Player159)": {
+      "fe.internal.player.known": "true"
+    },
+    "(68723020-3c7d-332b-9007-b1f8c7a00304|Player218)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c1b94a42-98fc-3354-947f-44f786fd56fa|Player592)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1e878937-6147-358d-b9a5-2d994db008c9|Player595)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6be062b2-d5f9-3e2d-be7e-7d0540b46d78|Player762)": {
+      "fe.internal.player.known": "true"
+    },
+    "(fe412f9e-f508-30d0-b407-ff978cf8fc5c|Player751)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2164d6a3-d058-3632-9c13-ff2b4a7698db|Player728)": {
+      "fe.internal.player.known": "true"
+    },
+    "(df8174ec-bca9-3a1b-ba60-043f16a73d79|Player235)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d95ea71f-9c73-3dc2-8058-efc83bcb1796|Player630)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2107fded-a4bd-35bb-abc7-dae190b9909f|Player638)": {
+      "fe.internal.player.known": "true"
+    },
+    "(0cad2f47-2665-3067-89f3-6434c639de1f|Player714)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2737bbb4-080a-3670-89c1-780a32c86c5a|Player303)": {
+      "fe.internal.player.known": "true"
+    },
+    "(5031b283-213a-3769-9d06-07f0ca40feb8|Player388)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2b1d2ae0-1745-3741-8c22-8b6dbf15a7e5|Player240)": {
+      "fe.internal.player.known": "true"
+    },
+    "(989691b1-d197-3995-a55e-281cda3663ae|Player529)": {
+      "fe.internal.player.known": "true"
+    },
+    "(8ab72cec-6ca5-3cfa-9749-08323debf842|Player778)": {
+      "fe.internal.player.known": "true"
+    },
+    "(57dc6a46-e74c-3ba4-9f22-c0301d6047ec|Player105)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1ba3e813-bc3f-3c63-a07a-82ed99656a6d|Player822)": {
+      "fe.internal.player.known": "true"
+    },
+    "(a692389e-9f43-3e66-84db-bbfe94bd70db|Player482)": {
+      "fe.internal.player.known": "true"
+    },
+    "(63489016-3661-38ec-acb6-3029cde6f29c|Player42)": {
+      "fe.internal.player.known": "true"
+    },
+    "(eb662411-185a-3694-b480-0c259ae00075|Player487)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d3ee42bb-6490-3bf6-992c-01b42b8a0039|Player334)": {
+      "fe.internal.player.known": "true"
+    },
+    "(c9700ac2-fb69-36ca-b322-09edfc5786fb|Player251)": {
+      "fe.internal.player.known": "true"
+    },
+    "(d1fadcd5-f8ee-389b-ae76-2112e34d591e|Player404)": {
+      "fe.internal.player.known": "true"
+    },
+    "(343a2278-4579-3a59-8a3a-aa2690a75202|Player115)": {
+      "fe.internal.player.known": "true"
+    },
+    "(1d49d7a1-2179-35b6-bce8-e6b16ddd4f41|Player41)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ae6cd2eb-90e0-375b-babc-c41851a58e79|Player538)": {
+      "fe.internal.player.known": "true"
+    },
+    "(03ba29a1-d6bd-32ba-90b2-375e4d65abc9|Player968)": {
+      "fe.internal.player.known": "true"
+    },
+    "(157dadc9-e980-331f-9b9a-60b0f155ef62|Player276)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e687d94c-f442-3ab7-a8a6-e1baf5dca36c|Player292)": {
+      "fe.internal.player.known": "true"
+    },
+    "(f79c4f00-774e-3daf-ac9c-aebcbcc29c64|Player359)": {
+      "fe.internal.player.known": "true"
+    },
+    "(7eabe93c-dd7d-38e8-9271-2dd9ed4d2fa5|Player782)": {}
+  },
+  "groupPermissions": {
+    "_PLAYERS_": {
+      "fe.remote.chat.send": "true",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_NPC_": {
+      "fe.internal.group.name": "NPCs",
+      "fe.internal.group.priority": "1",
+      "fe.internal.group": "true"
+    },
+    "_FAKEPLAYERS_": {
+      "fe.internal.group.priority": "15",
+      "fe.internal.group": "true",
+      "fe.protection.*": "true"
+    },
+    "_OPS_": {
+      "fe.internal.prefix": "[\u0026cOP\u0026f]",
+      "fe.internal.group.priority": "50",
+      "fe.internal.group": "true"
+    },
+    "_ALL_": {
+      "fe.remote.chat.send": "false",
+      "some.test.permission": "true",
+      "fe.internal.group.name": "players",
+      "fe.internal.group.priority": "0",
+      "fe.internal.group": "true"
+    },
+    "_CREATIVE_": {
+      "fe.internal.group": "true"
+    },
+    "faction_rank_owner": {
+      "fe.faction.members.*": "true",
+      "fe.faction.leave": "false",
+      "fe.faction.ally": "true",
+      "fe.faction.friendlyfire": "true",
+      "fe.faction.invite": "true",
+      "fe.internal.group.priority": "18",
+      "fe.internal.group.parents": "faction_rank_op",
+      "fe.faction.delete": "true"
+    },
+    "faction_rank_op": {
+      "fe.faction.members.*": "true",
+      "fe.faction.ally": "true",
+      "fe.faction.friendlyfire": "true",
+      "fe.faction.invite": "true",
+      "fe.internal.group.priority": "16"
+    },
+    "_ADVENTURE_": {
+      "fe.internal.group": "true"
+    },
+    "_GUESTS_": {
+      "fe.internal.prefix": "[GUEST]",
+      "fe.internal.group.priority": "10",
+      "fe.internal.group": "true"
+    }
+  }
+}

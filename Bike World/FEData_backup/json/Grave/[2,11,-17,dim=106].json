@@ -1,0 +1,19 @@
+{
+  "point": {
+    "dim": 106,
+    "x": 2,
+    "y": 11,
+    "z": -17
+  },
+  "owner": "f109a640-cd93-3f49-a1e7-75407085bbf0",
+  "inventory": [
+    {
+      "itemID": "minecraft:tnt",
+      "stackSize": 1,
+      "damage": 0
+    }
+  ],
+  "xp": 0,
+  "protTime": -894,
+  "hasFencePost": true,
+  "isProtected": false

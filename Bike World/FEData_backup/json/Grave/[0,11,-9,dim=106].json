@@ -1,0 +1,30 @@
+{
+  "point": {
+    "dim": 106,
+    "x": 0,
+    "y": 11,
+    "z": -9
+  },
+  "owner": "83a9d3a3-9e1e-31ca-9e08-18626d61aedc",
+  "inventory": [
+    {
+      "itemID": "minecraft:skull",
+      "stackSize": 1,
+      "damage": 3,
+      "compound": {
+        "c:SkullOwner": {
+          "S:Id": "74c27658-bdbf-3735-92e3-d4cbb89f0350",
+          "S:Name": "Player837"
+        }
+      }
+    },
+    {
+      "itemID": "minecraft:tnt",
+      "stackSize": 1,
+      "damage": 0
+    }
+  ],
+  "xp": 0,
+  "protTime": -124,
+  "hasFencePost": true,
+  "isProtected": false
