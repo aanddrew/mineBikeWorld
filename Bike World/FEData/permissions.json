@@ -377,9 +377,7 @@
     "(15798b51-9c30-3f35-8be6-3613cb7b02a9|Player945)": {
       "fe.internal.player.known": "true"
     },
-    "(69715e5e-1775-3a6c-8b64-1d82bcbbe688|Player508)": {
-      "fe.internal.player.known": "true"
-    },
+    "(69715e5e-1775-3a6c-8b64-1d82bcbbe688|Player508)": {},
     "(b52d0c01-e908-3f05-9150-dcf0319ded3d|Player331)": {
       "fe.internal.player.known": "true"
     },
@@ -776,7 +774,75 @@
     "(f79c4f00-774e-3daf-ac9c-aebcbcc29c64|Player359)": {
       "fe.internal.player.known": "true"
     },
-    "(7eabe93c-dd7d-38e8-9271-2dd9ed4d2fa5|Player782)": {}
+    "(7eabe93c-dd7d-38e8-9271-2dd9ed4d2fa5|Player782)": {
+      "fe.internal.player.known": "true"
+    },
+    "(078f5e46-1768-3b85-8c83-1cee0b3b10ab|Player776)": {
+      "fe.internal.player.known": "true"
+    },
+    "(2b32bf3c-80b5-35b3-abab-2d4e53bbbeb0|Player146)": {
+      "fe.internal.player.known": "true"
+    },
+    "(66397f00-f974-3e3d-944b-5f58f7613e27|Player839)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ae93e61c-5484-3859-844d-955ead0489d9|Player569)": {
+      "fe.internal.player.known": "true"
+    },
+    "(24a37f0a-2af1-3ac4-9024-e5424f979e18|Player810)": {
+      "fe.internal.player.known": "true"
+    },
+    "(93bfa0b6-cc14-3c0c-8efa-0bcc48245274|Player995)": {
+      "fe.internal.player.known": "true"
+    },
+    "(09444461-95e8-3d4c-b4c8-61c0297ca18f|Player929)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6f525ab9-4df4-3875-8280-4904a48f9cd7|Player652)": {
+      "fe.internal.player.known": "true"
+    },
+    "(dd88e361-ec01-3b4c-8ad5-1ab6382d04d7|Player272)": {
+      "fe.internal.player.known": "true"
+    },
+    "(b04d78c5-604b-370c-97e9-acff5d35c648|Player199)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ab8db6cf-78bd-396a-b9c3-4e2021f3ea40|Player566)": {
+      "fe.internal.player.known": "true"
+    },
+    "(98baa43b-a62e-3d66-8ee8-0933f53e227d|Player605)": {
+      "fe.internal.player.known": "true"
+    },
+    "(e5a660b6-9d51-36ee-858e-f73e02a3f36f|Player328)": {
+      "fe.internal.player.known": "true"
+    },
+    "(183eef8c-2608-3c01-af67-e8b358459ccf|Player700)": {
+      "fe.internal.player.known": "true"
+    },
+    "(20e20b8f-a9c3-33a3-bcf3-eb6875f0683d|Player25)": {
+      "fe.internal.player.known": "true"
+    },
+    "(6db1171d-4fa6-31cb-b425-1896281a26e2|Player308)": {
+      "fe.internal.player.known": "true"
+    },
+    "(3dc62e7d-7679-3ce7-b3a5-cf513aa6eb7c|Player863)": {
+      "fe.internal.player.known": "true"
+    },
+    "(ad8236b9-e26f-349c-902e-7100197cd86d|Player920)": {
+      "fe.internal.player.known": "true"
+    },
+    "(7fac0f4d-6ee9-33e9-a874-7b4a3cc238c6|Player918)": {
+      "fe.internal.player.known": "true"
+    },
+    "(edb8d6a3-e33d-3ebb-8b42-fbfd789b2d20|Player228)": {
+      "fe.internal.player.known": "true"
+    },
+    "(af1e0784-3719-3271-9d4b-734c7d03d2c7|Player878)": {
+      "fe.internal.player.known": "true"
+    },
+    "(58c26745-dc3b-3f98-a569-20069366f812|Player233)": {
+      "fe.internal.player.known": "true"
+    }
   },
   "groupPermissions": {
     "_PLAYERS_": {

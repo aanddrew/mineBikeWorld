@@ -1,0 +1,19 @@
+{
+  "ident": "(24a37f0a-2af1-3ac4-9024-e5424f979e18|Player810)",
+  "lastTeleportOrigin": {
+    "dim": 0,
+    "pitch": -15.449999,
+    "yaw": 26.700008,
+    "xd": 99.5,
+    "yd": 70.0,
+    "zd": 228.69599997997284
+  },
+  "lastTeleportTime": 1563914271809,
+  "selDim": 0,
+  "inventoryGroups": {},
+  "activeInventoryGroup": "default",
+  "timePlayed": 0,
+  "firstLogin": "Jul 23, 2019 1:37:31 PM",
+  "lastLogin": "Jul 23, 2019 1:37:31 PM",
+  "namedTimeout": {}
+}
