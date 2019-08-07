@@ -294,7 +294,9 @@
       "*": "true",
       "fe.internal.player.known": "true"
     },
-    "(6089232f-05ad-4a55-b01e-c12c07fa64f1|JessePeter)": {},
+    "(6089232f-05ad-4a55-b01e-c12c07fa64f1|JessePeter)": {
+      "fe.internal.player.known": "true"
+    },
     "(e6ce70cd-b7cc-34be-b059-93e41d35480c|Player30)": {
       "fe.internal.player.known": "true"
     },
@@ -501,7 +503,23 @@
     },
     "(324bf773-41c1-3c88-8191-03f2982049b1|Player457)": {
       "fe.internal.player.known": "true"
-    }
+    },
+    "(2638860b-4718-3fd6-a709-60419a2cda4a|Player389)": {
+      "fe.internal.player.known": "true"
+    },
+    "(825162a0-782b-3bd7-995d-a72551a0b3e8|Player666)": {
+      "fe.internal.player.known": "true"
+    },
+    "(63489016-3661-38ec-acb6-3029cde6f29c|Player42)": {
+      "fe.internal.player.known": "true"
+    },
+    "(600ef575-e50b-3323-b0f1-19e3a176b08b|Player405)": {
+      "fe.internal.player.known": "true"
+    },
+    "(13848433-7be7-350d-8b4a-c038819c2260|Player653)": {
+      "fe.internal.player.known": "true"
+    },
+    "(29b47250-4236-34ae-8b46-7341b800b727|Player897)": {}
   },
   "groupPermissions": {
     "_PLAYERS_": {
